@@ -21,7 +21,7 @@ can be largely incorrect.
 
 <h2>Example Outputs</h2>
 
-![Demo Image](TouchdownOutput.jpeg)
+![Demo Image](TouchdownOutput.jpeg) ![Demo Image](FloatOutput.jpeg)
 
 <h2>Files that I changed from the original forked repo (https://github.com/qadolphe/Running-Form-Analyzer/tree/master/android) </h2>
 
