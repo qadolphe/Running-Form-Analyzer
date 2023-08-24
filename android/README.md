@@ -15,6 +15,7 @@ can be largely incorrect.
     * Float: the moment in which the sprinter's legs are split apart the most, and the sprinter appears to be floating in the air.
 
 ![Demo Image](FloatExample.jpeg)
+    
     * Touchdown: the moment in which the sprinter has one leg touching the ground
 
 ![Demo Image](TouchdownExample.jpeg)
