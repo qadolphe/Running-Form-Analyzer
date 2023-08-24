@@ -9,27 +9,17 @@
 * [Community examples](./community)
 * [Course materials](./courses/udacity_deep_learning) for the [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) class on Udacity
 
-If you are looking to learn TensorFlow, don't miss the
-[core TensorFlow documentation](http://github.com/tensorflow/docs)
-which is largely runnable code.
-Those notebooks can be opened in Colab from
-[tensorflow.org](https://tensorflow.org).
-
 <h2>What is this repo?</h2>
 
 This is the TensorFlow example repo.  It has several classes of material:
 
-* Showcase examples and documentation for our fantastic [TensorFlow Community](https://tensorflow.org/community)
-* Provide examples mentioned on TensorFlow.org
-* Publish material supporting official TensorFlow courses
-* Publish supporting material for the [TensorFlow Blog](https://blog.tensorflow.org) and [TensorFlow YouTube Channel](https://youtube.com/tensorflow)
+* For me to explore neural networks and their applications to Computer Vision.
+* Combine my passion for Computer Vision with my interest in Track & Field.
+* Build off of existing frameworks so I can better focus on learning about neural networks.
 
 We welcome community contributions, see [CONTRIBUTING.md](CONTRIBUTING.md) and, for style help,
 [Writing TensorFlow documentation](https://www.tensorflow.org/community/contribute/docs_style)
 guide.
-
-To file an issue, use the tracker in the
-[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow/issues/new?template=20-documentation-issue.md) repo.
 
 ## License
 
