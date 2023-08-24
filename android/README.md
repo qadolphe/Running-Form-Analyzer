@@ -12,11 +12,11 @@ input image. If the input image contains multiple persons, the detection result
 can be largely incorrect.
     * MoveNet Thunder is used to train the classification model, so is recommended for in-app use.
 * Output of MoveNet Thunder is passed into the classification model to determine which phase of sprinting form the subject is currently in:
-   * Float: the moment in which the sprinter's legs are split apart the most, and the sprinter appears to be floating in the air.
+* Float: the moment in which the sprinter's legs are split apart the most, and the sprinter appears to be floating in the air.
 
 ![Demo Image](FloatExample.jpeg) 
     
-   * Touchdown: the moment in which the sprinter has one leg touching the ground
+* Touchdown: the moment in which the sprinter has one leg touching the ground
 
 ![Demo Image](TouchdownExample.jpeg)
 
