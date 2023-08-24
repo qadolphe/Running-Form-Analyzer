@@ -1,7 +1,7 @@
 # Running Form Analyzer
 
 <div align="center">
-  <img src="https://github.com/qadolphe/Running-Form-Analyzer/blob/b0aef7b180e82dfe795a842b2e863422fea308f8/TitlePage.jpeg" width="50"/><br /><br />
+  <img src="https://github.com/qadolphe/Running-Form-Analyzer/blob/b0aef7b180e82dfe795a842b2e863422fea308f8/TitlePage.jpeg" height="50"/><br /><br />
 </div>
 
 
