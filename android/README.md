@@ -45,7 +45,7 @@ If you explicitly want to download the model, you can download it from here:
 * [Movenet Thunder](https://tfhub.dev/google/movenet/singlepose/thunder/)
 
 
-### Build the demo using Android Studio
+# Build the demo using Android Studio
 
 ### Prerequisites
 
