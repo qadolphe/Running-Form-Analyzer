@@ -14,6 +14,7 @@ This is the TensorFlow example repo.  It has several classes of material:
 * Build off existing frameworks so I can better focus on learning about neural networks.
 
 <h2>Files that I changed from the original forked repo (https://github.com/qadolphe/Running-Form-Analyzer/tree/master/android) </h2>
+
 * PoseClassifier.kt
 * Labels.txt
 * Build.gradle
@@ -21,6 +22,7 @@ This is the TensorFlow example repo.  It has several classes of material:
 * AndroidManifest.xml
 
 <h2>Training Classification Neural Network</h2>
+
 * Architecture was built from TensorFlow example documents: https://www.tensorflow.org/lite/tutorials/pose_classification
 * I built the training and test data sets from:
     * https://www.youtube.com/watch?v=N4oypLjLnik&t=448s
