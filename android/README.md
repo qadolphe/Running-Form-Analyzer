@@ -13,11 +13,11 @@ can be largely incorrect.
     * MoveNet Thunder is used to train the classification model, so is recommended for in-app use.
 * Output of MoveNet Thunder is passed into the classification model to determine which phase of sprinting form the subject is currently in:
 
-<h2>Float: the moment in which the sprinter's legs are split apart the most, and the sprinter appears to be floating in the air.</h2>
+<h3>Float: the moment in which the sprinter's legs are split apart the most, and the sprinter appears to be floating in the air.</h3>
 
 ![Demo Image](FloatExample.jpeg) 
     
-<h1>* Touchdown: the moment in which the sprinter has one leg touching the ground</h1>
+<h3> Touchdown: the moment in which the sprinter has one leg touching the ground</h3>
 
 ![Demo Image](TouchdownExample.jpeg)
 
