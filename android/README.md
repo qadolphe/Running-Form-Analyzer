@@ -29,7 +29,7 @@ input image.
 * gradle.properties
 * AndroidManifest.xml
 
-### Model used
+### Models used
 Downloading, extraction and placement in assets folder has been managed
  automatically by `download.gradle`.
 
@@ -38,9 +38,4 @@ If you explicitly want to download the model, you can download it from here:
 * [Posenet](https://storage.googleapis.com/download.tensorflow.org/models/tflite/posenet_mobilenet_v1_100_257x257_multi_kpt_stripped.tflite)
 * [Movenet Lightning](https://tfhub.dev/google/movenet/singlepose/lightning/)
 * [Movenet Thunder](https://tfhub.dev/google/movenet/singlepose/thunder/)
-* [Movenet MultiPose](https://tfhub.dev/google/movenet/multipose/lightning/)
 
-### Additional Note
-_Please do not delete the assets folder content_. If you explicitly deleted the
- files, then please choose `Build` > `Rebuild` from menu to re-download the
- deleted model files into assets folder.
