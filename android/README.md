@@ -19,6 +19,7 @@ can be largely incorrect.
 
 ![Demo Image](TouchdownExample.jpeg)
 
+<h2>Example Outputs</h2>
 
 
 <h2>Files that I changed from the original forked repo (https://github.com/qadolphe/Running-Form-Analyzer/tree/master/android) </h2>
