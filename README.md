@@ -1,7 +1,7 @@
 # Running Form Analyzer
 
 <div align="center">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" /><br /><br />
+  <img src="https://github.com/qadolphe/Running-Form-Analyzer/blob/b0aef7b180e82dfe795a842b2e863422fea308f8/TitlePage.jpeg" /><br /><br />
 </div>
 
 
