@@ -18,8 +18,6 @@ can be largely incorrect.
 input image.
    * MoveNet MultiPose: Support up to 6 persons.
 
-See this [blog post](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
-for a comparison between these models.
 
 ![Demo Image](posenetimage.png)
 
