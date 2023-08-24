@@ -2,21 +2,18 @@
 
 ### Overview
 This is an app that continuously detects the body parts in the frames seen by
-your device's camera. These instructions walk you through building and running
-the demo on an Android device. Camera captures are discarded immediately after
+your device's camera. Camera captures are discarded immediately after
 use, nothing is stored or saved.
 
-The app demonstrates how to use 4 models:
+The app demonstrates the use of single-pose models:
 
-* Single pose models: The model can estimate the pose of only one person in the
+* The model can estimate the pose of only one person in the
 input image. If the input image contains multiple persons, the detection result
 can be largely incorrect.
-   * PoseNet
-   * MoveNet Lightning
-   * MoveNet Thunder
-* Multi pose models: The model can estimate pose of multiple persons in the
-input image.
-   * MoveNet MultiPose: Support up to 6 persons.
+    * MoveNet Thunder is used to train the classification model, so is recommended for in-app use.
+* Output of MoveNet Thunder is passed into the classification model to determine which phase of sprinting form the subject is currently in:
+    * Float: the moment in which the sprinter's legs are split apart the most, and the sprinter appears to be floating in the air.
+    * Touchdown: the moment in which the sprinter has one leg touching the ground
 
 
 ![Demo Image](posenetimage.png)
