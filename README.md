@@ -7,8 +7,8 @@
 
 <h2>What is this repo?</h2>
 
-* For me to explore neural networks and their applications to Computer Vision.
-* Combine my passion for Computer Vision with my interest in Track & Field.
+* For me to explore neural networks and their applications to computer vision.
+* Combine my passion for computer vision with my interest in Track & Field.
 * Build off existing frameworks so I can better focus on learning about neural networks.
 
 ### Overview
