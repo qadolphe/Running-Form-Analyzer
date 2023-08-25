@@ -26,11 +26,11 @@ can be largely incorrect.
 
 <h3>Float: the moment in which the sprinter's legs are split apart the most, and the sprinter appears to be floating in the air.</h3>
 
-![Demo Image](FloatExample.jpeg) 
+![Demo Image](android/FloatExample.jpeg) 
     
 <h3> Touchdown: the moment in which the sprinter has one leg touching the ground</h3>
 
-![Demo Image](TouchdownExample.jpeg)
+![Demo Image](android/TouchdownExample.jpeg)
 
 
 <h2>Example Outputs</h2>
