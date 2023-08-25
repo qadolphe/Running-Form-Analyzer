@@ -1,5 +1,5 @@
-# TensorFlow Lite Pose Estimation Android Demo
 
+![Demo Image](TouchdownOutput.jpeg) 
 
 <h2>Files that I changed from the original forked repo (https://github.com/qadolphe/Running-Form-Analyzer/tree/master/android) </h2>
 
